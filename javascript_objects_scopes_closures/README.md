@@ -1,0 +1,1 @@
+In this new section of Javascript, we're discovering its various aspects such as scopes, closures, and objects. 
